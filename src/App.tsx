@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Product from './Component/Product'
 import Category from './Component/Category'
 import Footer from './Component/Footer'

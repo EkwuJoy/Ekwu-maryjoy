@@ -1,4 +1,4 @@
-import React from 'react'
+
 import img6 from "../assests/Amazing views.png"
 import img7 from "../assests/Frame 29 (2).png"
 import img8 from "../assests/Frame 29 (3).png"
